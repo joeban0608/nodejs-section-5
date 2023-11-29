@@ -7,6 +7,7 @@ app.use((req, res, next) => {
 });
 app.use((req, res, next) => {
   console.log("In the sec middleware!");
+  res.send('<h1>Hello, Here is Html from Express!</h1>')
 });
 const server = http.createServer(app);
 
