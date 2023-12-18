@@ -13,4 +13,5 @@ ref by https://www.udemy.com/course/nodejs-the-complete-guide
 - [5-67 Adding a 404 Error Page](https://www.notion.so/5-67-Adding-a-404-Error-Page-4505989253d14eb1bb02109dde36e87a)
 - [5-68 filtering paths](https://www.notion.so/5-68-Filtering-Paths-c52c3085dc2a42209fbf62367610458c)
 - [5-69-to-71 Creating HTML Pages](https://www.notion.so/5-69-to-71-Creating-HTML-Pages-4d3213c1433b47ddb334a07ac2782784)
+- [5-73 Using a Helper Function for Navigation](https://www.notion.so/5-73-Using-a-Helper-Function-for-Navigation-ca55369f89af4666a1f8cf8b88e1e00e)
 - [extra learn: npm, nodemon](https://www.notion.so/5-68-Filtering-Paths-c52c3085dc2a42209fbf62367610458c)
