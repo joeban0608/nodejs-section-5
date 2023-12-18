@@ -6,7 +6,7 @@ const shopRoute = require("./routes/shop");
 const errorRoute = require("./routes/404");
 app.use(bodyParser.urlencoded({ extended: false }));
 
-app.use(adminRoutes);
+app.use("/admin", adminRoutes);
 app.use(shopRoute);
 app.use(errorRoute);
 
