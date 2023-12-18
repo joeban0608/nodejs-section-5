@@ -11,4 +11,5 @@ ref by https://www.udemy.com/course/nodejs-the-complete-guide
 - [5-65 Limiting Middleware Execution to POST Requests](https://www.notion.so/5-65-Limiting-Middleware-Execution-to-POST-Requests-0dad1e3798e94c7e8e9dc26e3c6546e4)
 - [5-66 Using Express Router](https://www.notion.so/5-66-Using-Express-Router-d922c938a0e34fbdaee6fa3cfc6ac83c)
 - [5-67 Adding a 404 Error Page](https://www.notion.so/5-67-Adding-a-404-Error-Page-4505989253d14eb1bb02109dde36e87a)
-- [extra learn: npm, nodemon](https://www.notion.so/extra-learn-npm-nodemon-68859fd3bd3e4208bd26f97f65052de2)
+- [5-68 filtering paths](https://www.notion.so/5-67-Adding-a-404-Error-Page-4505989253d14eb1bb02109dde36e87a)
+- [extra learn: npm, nodemon](https://www.notion.so/5-68-Filtering-Paths-c52c3085dc2a42209fbf62367610458c)
