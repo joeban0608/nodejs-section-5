@@ -2,6 +2,7 @@
 
 ref by https://www.udemy.com/course/nodejs-the-complete-guide
 
+## 第五章 Working with Express.js
 - [5-59 install Express.js](https://www.notion.so/5-59-installing-Express-js-3535aa499f164c72b5f2712f4b8d6c87?pvs=21)
 - [5-60 adding Middleware](https://www.notion.so/5-60-adding-Middleware-2a8bf6943ca54363bd8164e5c37b2713)
 - [5-61 How Middleware work](https://www.notion.so/5-61-How-Middleware-work-90ec78462ac94692aaefbd827100c3b0)
@@ -17,3 +18,7 @@ ref by https://www.udemy.com/course/nodejs-the-complete-guide
 - [5-74 Styling our Pages](https://www.notion.so/5-74-Styling-our-Pages-4813d36d93c944ccb3d90292652be422)
 - [5-75 Serving Files Statically](https://www.notion.so/5-75-Serving-Files-Statically-ce374b6c7fab424c9ce3fb169a14b33f)
 - [extra learn: npm, nodemon](https://www.notion.so/5-68-Filtering-Paths-c52c3085dc2a42209fbf62367610458c)
+
+## 第六章 Working with Dynamic Content & Adding Template Engines
+- [6-79 Sharing Data Across Requests & Users](https://www.notion.so/6-79-Sharing-Data-Across-Requests-Users-48271d6ced584835a4bc75b63a413efb)
+
